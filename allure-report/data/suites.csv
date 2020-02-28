@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Feb 27 12:22:00 IST 2020","Thu Feb 27 12:22:00 IST 2020","1","Default Suite","SeleniumDay2","Day3.GeneratingAllureReports","Day3.GeneratingAllureReports","test3","test3",""
+"passed","Thu Feb 27 12:21:50 IST 2020","Thu Feb 27 12:21:50 IST 2020","11","Default Suite","SeleniumDay2","Day3.GeneratingAllureReports","Day3.GeneratingAllureReports","test1","test1",""
+"failed","Thu Feb 27 12:22:05 IST 2020","Thu Feb 27 12:22:05 IST 2020","1","Default Suite","SeleniumDay2","Day3.GeneratingAllureReports","Day3.GeneratingAllureReports","test4","test4",""
+"failed","Thu Feb 27 12:21:55 IST 2020","Thu Feb 27 12:21:55 IST 2020","13","Default Suite","SeleniumDay2","Day3.GeneratingAllureReports","Day3.GeneratingAllureReports","test2","test2",""

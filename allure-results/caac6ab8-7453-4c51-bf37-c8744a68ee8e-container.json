@@ -1,0 +1,1 @@
+{"uuid":"caac6ab8-7453-4c51-bf37-c8744a68ee8e","name":"myParallelTestForFirefox","children":["7a9f2357-afd6-4963-a5c0-27b1f6224ca0"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1582794513967,"stop":1582794516084}],"afters":[],"links":[],"start":1582794513966,"stop":1582794522654}

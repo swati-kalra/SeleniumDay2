@@ -1,0 +1,1 @@
+{"uuid":"6b267c04-48b2-42aa-b1f5-de9c792e81ce","name":"myParallelTestForChrome","children":["b05e01a5-b8e3-4adc-b80b-c24715cd5ca5"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1582794501417,"stop":1582794502673}],"afters":[],"links":[],"start":1582794501401,"stop":1582794513957}

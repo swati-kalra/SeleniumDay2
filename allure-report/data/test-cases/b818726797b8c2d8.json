@@ -1,0 +1,62 @@
+{
+  "uid" : "b818726797b8c2d8",
+  "name" : "test3",
+  "fullName" : "Day3.GeneratingAllureReports.test3",
+  "historyId" : "25dc8dad340d12e474b1d5e1dfb508fa",
+  "time" : {
+    "start" : 1582786320175,
+    "stop" : 1582786320176,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Day3.GeneratingAllureReports"
+  }, {
+    "name" : "testClass",
+    "value" : "Day3.GeneratingAllureReports"
+  }, {
+    "name" : "testMethod",
+    "value" : "test3"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "SeleniumDay2"
+  }, {
+    "name" : "subSuite",
+    "value" : "Day3.GeneratingAllureReports"
+  }, {
+    "name" : "host",
+    "value" : "Swatis-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4542@Swatis-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b818726797b8c2d8.json",
+  "parameterValues" : [ ]
+}

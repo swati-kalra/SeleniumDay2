@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name = "myTestSuite">
+    <test name = "myTest">
+        <classes>
+            <class name="Day3.GeneratingAllureReports"></class>
+        </classes>
+    </test>
+    <test name = "myTest2">
+        <classes>
+            <class name="Day3.GeneratingExtentReports">
+<!--                <methods name="myMethod">-->
+<!--                    <exclude></exclude> -->
+<!--                </methods>-->
+            </class>
+        </classes>
+    </test>
+</suite>
